@@ -1,2 +1,3 @@
 app ver 0.4
 appname = "atom"
+add login
